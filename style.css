@@ -1,0 +1,60 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+
+.nutrition_li
+{
+  margin-top: 13px;
+}
+
+.nutrition_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+    font-family:monospace;
+    font-size:30px;
+}
+
+.nutrition_li img
+{
+  border-radius: 25px;
+  
+}
+
+.nutrition_li p
+{
+  margin-top:10px;
+    font-size:20px;
+}
+
+.header_entrepreneur
+{
+  line-height: 2;
+}
+
+#nutrition{
+   background-color:bisque;
+    border-radius:25px;
+}
+
+#nutrition h2{
+    font-family: cursive;
+    font-size:40px;
+}
+
+
